@@ -1,0 +1,7 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: "HEAD"
+        theme: hugo-uno
+        flags: --buildDrafts=false
