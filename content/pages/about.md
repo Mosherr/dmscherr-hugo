@@ -1,5 +1,4 @@
 +++
-date = false
 draft = false
 title = "About Me"
 description = "This is a little about me"

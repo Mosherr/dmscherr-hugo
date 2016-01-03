@@ -1,5 +1,4 @@
 +++
-date = false
 draft = false
 title = "Resume"
 description = "My Resume"
