@@ -1,0 +1,40 @@
+languageCode = "en-us"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://dmscherr.com/"
+canonifyurls = true
+title = "Code and Things"
+author = "Daniel Scherr"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[Params]
+  AuthorName = "Dmscherr"
+  github = "Mosherr"
+  bitbucket = false
+  flickr = false
+  twitter = false
+  email = "me@dmscherr.com"
+  description = "This is a blog for me to write down my thoughts about projects I work on."
+  cv = "/pages/about"
+  muut = false
+  linkedin = "dmscherr"
+  cover = "/images/background-cover.jpg"
+  logo = false
+
+[[menu.main]]
+    name = "About Me"
+    pre = "<i class='fa fa-heart'></i>"
+    weight = -100
+    identifier = "about"
+    url = "/pages/about/"
+[[menu.main]]
+    name = "Resume"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -110
+    url = "/pages/resume/"
