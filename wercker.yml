@@ -1,4 +1,4 @@
-box: debian
+box: wercker/default
 build:
   steps:
     - arjen/hugo-build:
@@ -8,7 +8,7 @@ build:
 deploy:
     steps:
     - s3sync:
-        source_dir: build/
+        source_dir: public/
         delete-removed: true
         bucket-url: $AWS_BUCKET_URL
         key-id: $AWS_ACCESS_KEY_ID
