@@ -19,7 +19,7 @@ I have been working with computers for most of my life. I was lucky that while g
       Libraries:        Polymer, Jquery, Cordova, Underscore                          
       O/S:              Mac, Windows, Unix
       Databases:        MYSQL, Mongo
-      Tools:            PHPStorm, Selenium, LAMP, AWS, REST, werker
+      Tools:            PHPStorm, Selenium, LAMP, AWS, REST, wercker
       Frameworks:       Zend, Backbone.js, CakePHP, Titanium
       CMS:              Drupal, Wordpress, Hugo
       Other:            Cloud Computing, SCRUM, AGILE, Small Team Management, Best Practices, Automated Testing
