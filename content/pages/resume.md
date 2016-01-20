@@ -19,7 +19,7 @@ I have been working with computers for most of my life. I was lucky that while g
       Libraries:        Polymer, Jquery, Cordova, Underscore                          
       O/S:              Mac, Windows, Unix
       Databases:        MYSQL, Mongo
-      Tools:            PHPStorm, Selenium, LAMP, AWS, REST
+      Tools:            PHPStorm, Selenium, LAMP, AWS, REST, werker
       Frameworks:       Zend, Backbone.js, CakePHP, Titanium
       CMS:              Drupal, Wordpress, Hugo
       Other:            Cloud Computing, SCRUM, AGILE, Small Team Management, Best Practices, Automated Testing
@@ -28,47 +28,57 @@ I have been working with computers for most of my life. I was lucky that while g
 ### Professional History
 
 **Software Developer, Shipwire (2012-Present):**
-During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented.   
-Key Skills:
-* PHP
-* Javascript
-* Backbone.js
-* Go
-* APIs
-* Automated Tests
+During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented. </br>
+**Key Skills:**
+<ul>
+  <li>PHP</li>
+  <li>Javascript</li>
+  <li>Backbone.js</li>
+  <li>Go</li>
+  <li>APIs</li>
+  <li>Automated Tests</li>
+</ul>
 
 **Software Developer, Fordela Corporation (2009-2012):**
-Using Drupal I created a CMS for sharing and selling videos. With CakePHP, Javascript, jQuery, SQL, Selenium, CSS, HTML I helped create a secure media management website. I also worked on design for a mobile app that would use APIs to get content to mobile users.  Worked closely with product management to efficiently create customized features for clients. Mentored other engineers and worked on paired programming projects.
-Key Skills:
-* PHP
-* APP Development
-* Javascript
-* APIs
-* REST
+Using Drupal I created a CMS for sharing and selling videos. With CakePHP, Javascript, jQuery, SQL, Selenium, CSS, HTML I helped create a secure media management website. I also worked on design for a mobile app that would use APIs to get content to mobile users.  Worked closely with product management to efficiently create customized features for clients. Mentored other engineers and worked on paired programming projects. </br>
+**Key Skills:**
+<ul>
+  <li>PHP</li>
+  <li>Javascript</li>
+  <li>APP Development</li>
+  <li>REST</li>
+  <li>APIs</li>
+</ul>
 
 **Mobile App Developer, GoGuide (2012):**
-Using Jquery Mobile and Ruby, I designed and submitted apps on the Android and iOS marketplaces.  Coordinated QA of app before submission and implemented necessary changes to create a competitive product.
-Key Skills:
-* Jquery Mobile
-* Ruby
-* iOS
-* Android
+Using Jquery Mobile and Ruby, I designed and submitted apps on the Android and iOS marketplaces.  Coordinated QA of app before submission and implemented necessary changes to create a competitive product. </br>
+**Key Skills:**
+<ul>
+  <li>Jquery Mobile</li>
+  <li>Ruby</li>
+  <li>iOS</li>
+  <li>Android</li>
+</ul>
 
 **Intern Programmer, Grassroots Enterprises (2007-2009):**
-Using Groovy on Grails, Java, Selenium, and other tools, I created and debugged software used for online advocacy. I created automated QA tests to make sure everything was working as expected.
-Key Skills:
-* Groovy on Grails
-* Java
-* Selenium
-* Automated Testing
+Using Groovy on Grails, Java, Selenium, and other tools, I created and debugged software used for online advocacy. I created automated QA tests to make sure everything was working as expected. </br>
+**Key Skills:**
+<ul>
+  <li>Groovy on Grails</li>
+  <li>Java</li>
+  <li>Selenium</li>
+  <li>Automated Testing</li>
+</ul>
 
 **Intern Programmer, Computer Sciences Corporation (2004-2005):**
-Creation and maintenance of an internal website used by technicians to complete service orders on computers at Jet Propulsion Laboratory. I  trained other team members to maintain the website as well.
-Key Skills:
-* PHP
-* HTML
-* MYSQL
-* Training
+Creation and maintenance of an internal website used by technicians to complete service orders on computers at Jet Propulsion Laboratory. I  trained other team members to maintain the website as well. </br>
+**Key Skills:**
+<ul>
+  <li>PHP</li>
+  <li>HTML</li>
+  <li>MYSQL</li>
+  <li>Training</li>
+</ul>
 
 ### Education
 
