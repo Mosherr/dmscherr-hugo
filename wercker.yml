@@ -2,7 +2,7 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: "1.8.1"
+        version: "HEAD"
         theme: hugo-uno
         flags: --buildDrafts=false
 deploy:
