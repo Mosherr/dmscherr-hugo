@@ -1,4 +1,4 @@
-box: pjvds/golang
+box: pjvds/box-golang-1
 build:
   steps:
     - arjen/hugo-build:
