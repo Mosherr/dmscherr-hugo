@@ -1,4 +1,4 @@
-box: pjvds/golang-1
+box: debian
 build:
   steps:
     - arjen/hugo-build:
