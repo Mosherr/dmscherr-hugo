@@ -15,32 +15,61 @@ I have been working with computers for most of my life. I was lucky that while g
 
 ### Technical Skills
 
-      Languages:        PHP, HTML, CSS, Javascript, Go
-      Libraries:        Polymer, Jquery, Cordova                          
+      Languages:        PHP, HTML, CSS, Javascript, Go, Java
+      Libraries:        Polymer, Jquery, Cordova, Underscore                          
       O/S:              Mac, Windows, Unix
       Databases:        MYSQL, Mongo
-      Tools:            PHPStorm, Selenium, LAMP, Cloud Computing, AWS
+      Tools:            PHPStorm, Selenium, LAMP, AWS, REST
       Frameworks:       Zend, Backbone.js, CakePHP, Titanium
       CMS:              Drupal, Wordpress, Hugo
+      Other:            Cloud Computing, SCRUM, AGILE, Small Team Management, Best Practices, Automated Testing
 
 
 ### Professional History
 
 **Software Developer, Shipwire (2012-Present):**
-PHP, HTML, Javascript, Backbone.js, Go.  Using the above tools; creating strong APIs and frontend integrations; creating automated integration tests for APIs; leading projects; scrum master for our team.
+During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented.   
+Key Skills:
+* PHP
+* Javascript
+* Backbone.js
+* Go
+* APIs
+* Automated Tests
 
 **Software Developer, Fordela Corporation (2009-2012):**
-Drupal, CakePHP, App Development, Javascript, jQuery, SQL, Selenium, CSS, HTML coding for creation of secure media management websites.
+Using Drupal I created a CMS for sharing and selling videos. With CakePHP, Javascript, jQuery, SQL, Selenium, CSS, HTML I helped create a secure media management website. I also worked on design for a mobile app that would use APIs to get content to mobile users.  Worked closely with product management to efficiently create customized features for clients. Mentored other engineers and worked on paired programming projects.
+Key Skills:
+* PHP
+* APP Development
+* Javascript
+* APIs
+* REST
 
 **Mobile App Developer, GoGuide (2012):**
-Jquery Mobile, Ruby. Helped design and submit apps on the Android and iOS marketplace.
+Using Jquery Mobile and Ruby, I designed and submitted apps on the Android and iOS marketplaces.  Coordinated QA of app before submission and implemented necessary changes to create a competitive product.
+Key Skills:
+* Jquery Mobile
+* Ruby
+* iOS
+* Android
 
 **Intern Programmer, Grassroots Enterprises (2007-2009):**
-Used Grails, Java, Groovy, Selenium, and other tools to create and debug software used in online advocacy. Created automated QA tests.
+Using Groovy on Grails, Java, Selenium, and other tools, I created and debugged software used for online advocacy. I created automated QA tests to make sure everything was working as expected.
+Key Skills:
+* Groovy on Grails
+* Java
+* Selenium
+* Automated Testing
 
 **Intern Programmer, Computer Sciences Corporation (2004-2005):**
-Created and maintained an internal website. Cross trained other team members to maintain the website.
+Creation and maintenance of an internal website used by technicians to complete service orders on computers at Jet Propulsion Laboratory. I  trained other team members to maintain the website as well.
+Key Skills:
+* PHP
+* HTML
+* MYSQL
+* Training
 
 ### Education
 
-BS, Computer Science: California State University, East Bay, 2010
+BS, Computer Science: California State University, East Bay
