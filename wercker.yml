@@ -1,4 +1,4 @@
-box: wercker/default
+box: pjvds/golang
 build:
   steps:
     - arjen/hugo-build:
