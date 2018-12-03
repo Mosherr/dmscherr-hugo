@@ -1,5 +1,5 @@
 +++
-date = "2018-12-2T16:12:21-08:00"
+date = "2018-12-02T16:12:21-08:00"
 draft = false
 title = "QuoteBot"
 description = "QuoteBot"
