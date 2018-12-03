@@ -8,12 +8,12 @@ topics      = [ "Development", "Go"]
 +++
 
 ## My Goals:
-Learn GO
-Spend no money
-Build a Quotebot for Slack
-Make it easy to use
-Make sure it is expandable
-Open Source it 
+Learn GO <br>
+Spend no money <br>
+Build a Quotebot for Slack <br>
+Make it easy to use <br>
+Make sure it is expandable <br>
+Open Source it <br>
 
 
 ## Getting Started:
@@ -23,17 +23,17 @@ I needed a project to work on in order to teach myself how to code in GO. At my 
 I decided I would code the project in GO using a MongoDB to store all of the quotes then host it on Google App Engine. I found a simple slack bot example that served static quotes; this was a great starting point for me. I was able to get that bot up and running with no problems. It took a little planning to figure out how I wanted this QuoteBot to work, such as what commands did what and how I would handle validation.
 
 ## My breakdown of this project:
-Create a slack bot that allows serving of static quotes
-Add database support
-Include metadata on quotes (quoted user, user who added the quote, date added)
-Make it so the quote returned is random
-Allow a user to be specified and only return quotes by them
-Allow adding quotes
-Optimize code
-Release
-Gather feedback
-Optimize use
-Import old quotes
+Create a slack bot that allows serving of static quotes <br>
+Add database support <br>
+Include metadata on quotes (quoted user, user who added the quote, date added) <br>
+Make it so the quote returned is random <br>
+Allow a user to be specified and only return quotes by them <br>
+Allow adding quotes <br>
+Optimize code <br>
+Release <br>
+Gather feedback <br>
+Optimize use <br>
+Import old quotes 
 
 
 ## Implementation:
