@@ -11,23 +11,58 @@ topics      = [ "Development"]
 
 ### Objective
 
-I have been working with computers for most of my life. I was lucky that while growing up they were always available to me. Programming has been what I wanted to do since I was a kid and I have been working toward that ever since. I have worked with many languages and tools but am never done learning. I can pick up any new technology or language and within a short period of time know it very fluently. I am an easy to get along with person capable of working with groups or motivating myself on personal projects. Recently I have also gotten experience leading team projects.
+I have been working with computers for most of my life.
+I was lucky that while growing up they were always available to me. Programming has been what I wanted to do since I was
+a kid and I have been working toward that ever since. I have worked with many languages and tools but am never done
+learning. I can pick up any new technology or language and within a short period of time know it very fluently. I am an
+easy to get along with person capable of working with groups or motivating myself on personal projects. I have designed
+projects from the ground up and worked with a team to meet deadlines and deliver above expectations
 
 ### Technical Skills
 
       Languages:        PHP, HTML, CSS, Javascript, Go, Java
-      Libraries:        Polymer, Jquery, Cordova, Underscore                          
+      Libraries:        Jquery, Underscore                          
       O/S:              Mac, Windows, Unix
       Databases:        MYSQL, Mongo
-      Tools:            PHPStorm, Selenium, LAMP, AWS, REST, wercker
-      Frameworks:       Zend, Backbone.js, CakePHP, Titanium
+      Tools:            JetBrains, Selenium, LAMP, AWS, REST, wercker, Docker, K8s
+      Frameworks:       Zend, Backbone.js, CakePHP, Springboot
       CMS:              Drupal, Wordpress, Hugo
-      Other:            Cloud Computing, SCRUM, AGILE, Small Team Management, Best Practices, Automated Testing
+      Other:            Architecture, Cloud Computing, SCRUM, AGILE, Team Management, Best Practices, Automated Testing
 
 
 ### Professional History
+**Principal Developer, Shipwire (2022-Present):**
+Shipwire was once again acquired and with 10+ years of experience at this point I began leading projects with teams of
+more than 10 people. With my team I designed and implemented critical projects that involved working with third parties,
+microservices, and data management solutions. I also work regularly on looking at the Shipwire code base as a whole and
+how it can be imported, from performance, security, reliability, readability, to portability, and deployment. I am
+always excited to take on new projects and work with my teammates to deliver.</br>
+**Key Skills:**
+<ul>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>Management</li>
+  <li>Leadership</li>
+  <li>Third Party Integration</li>
+  <li>Architecture</li>
+  <li>MYSQL</li>
+</ul>
 
-**Software Developer, Shipwire (2012-Present):**
+**Sr. Software Engineer, Ingram Micro (2018-2022):**
+When Shipwire was acquired by Ingram Micro I was able to use my historical knowledge and skill set to help continue to
+grow the company by helping with new hires and training. I was also given opportunities to lead projects and work with
+my team to hit dealings and deliverables.</br>
+**Key Skills:**
+<ul>
+  <li>PHP</li>
+  <li>Java</li>
+  <li>Springboot</li>
+  <li>Architecture</li>
+  <li>APIs</li>
+  <li>Leadership</li>
+</ul>
+
+**Software Engineer, Shipwire (2012-2018):**
 During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented. </br>
 **Key Skills:**
 <ul>
