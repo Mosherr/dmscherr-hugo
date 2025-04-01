@@ -50,4 +50,4 @@ ignoreLogs = ['warning-goldmark-raw-html']
     workers = 10
         [[deployment.targets]]
         name = 'production'
-        url = 's3://dmscherr?region=us-west-1'
+        url = 's3://dmscherr.com?region=us-west-1'
