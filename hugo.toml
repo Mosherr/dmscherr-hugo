@@ -7,6 +7,7 @@ canonifyurls = true
 title = "Code and Things"
 author = "Daniel Scherr"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [taxonomies]
   tag = "tags"
@@ -38,3 +39,15 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
     pre = "<i class='fa fa-road'></i>"
     weight = -110
     url = "/pages/resume/"
+
+[deployment]
+    confirm = false
+    dryRun = false
+    force = false
+    invalidateCDN = true
+    maxDeletes = 256
+    target = ''
+    workers = 10
+        [[deployment.targets]]
+        name = 'production'
+        url = 's3://dmscherr?region=us-west-1'
