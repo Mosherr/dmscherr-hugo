@@ -1,10 +1,8 @@
-+++
-draft = false
-title = "Resume"
-description = "My Resume"
-tags        = [ "Development", "Resume"]
-topics      = [ "Development"]
-+++
+---
+title : "Resume"
+description : "My Resume"
+tags        : [ "Development", "Resume"]
+---
 
 
 ## SOFTWARE ENGINEER
@@ -36,84 +34,75 @@ Shipwire was once again acquired and with 10+ years of experience at this point 
 more than 10 people. With my team I designed and implemented critical projects that involved working with third parties,
 microservices, and data management solutions. I also work regularly on looking at the Shipwire code base as a whole and
 how it can be imported, from performance, security, reliability, readability, to portability, and deployment. I am
-always excited to take on new projects and work with my teammates to deliver.</br>
+always excited to take on new projects and work with my teammates to deliver.
 **Key Skills:**
-<ul>
-  <li>PHP</li>
-  <li>Java</li>
-  <li>Management</li>
-  <li>Leadership</li>
-  <li>Third Party Integration</li>
-  <li>Architecture</li>
-  <li>MYSQL</li>
-</ul>
+  * PHP
+  * Java
+  * Management
+  * Leadership
+  * Third Party Integration
+  * Architecture
+  * MYSQL
 
 **Sr. Software Engineer, Ingram Micro (2018-2022):**
 When Shipwire was acquired by Ingram Micro I was able to use my historical knowledge and skill set to help continue to
 grow the company by helping with new hires and training. I was also given opportunities to lead projects and work with
-my team to hit dealings and deliverables.</br>
+my team to hit dealings and deliverables.
 **Key Skills:**
-<ul>
-  <li>PHP</li>
-  <li>Java</li>
-  <li>Springboot</li>
-  <li>Architecture</li>
-  <li>APIs</li>
-  <li>Leadership</li>
-</ul>
+  * PHP
+  * Java
+  * Springboot
+  * Architecture
+  * APIs
+  * Leadership
 
 **Software Engineer, Shipwire (2012-2018):**
-During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented. </br>
+During my tenure at Shipwire our engineering team has grown from 4 engineers to over 30 engineers. I created the infrastructure enabling this growth and continue to mentor and train new team members. I am responsible for leading projects and am scrum master for our team. I create REST APIs and front-end integrations using PHP, ZEND, HTML, Javascript, Backbone.js. I write automated integration tests for the APIs. I am also able to work with technologies like Go and Bootstrap to update our codebase. I advocate for PHP standards and the inclusion of automated API testing, both of which were implemented. 
 **Key Skills:**
-<ul>
-  <li>PHP</li>
-  <li>Javascript</li>
-  <li>Backbone.js</li>
-  <li>Go</li>
-  <li>APIs</li>
-  <li>Automated Tests</li>
-</ul>
+  * PHP
+  * Javascript
+  * Backbone.js
+  * Go
+  * APIs
+  * Automated Tests
+
 
 **Software Developer, Fordela Corporation (2009-2012):**
-Using Drupal I created a CMS for sharing and selling videos. With CakePHP, Javascript, jQuery, SQL, Selenium, CSS, HTML I helped create a secure media management website. I also worked on design for a mobile app that would use APIs to get content to mobile users.  Worked closely with product management to efficiently create customized features for clients. Mentored other engineers and worked on paired programming projects. </br>
+Using Drupal I created a CMS for sharing and selling videos. With CakePHP, Javascript, jQuery, SQL, Selenium, CSS, HTML I helped create a secure media management website. I also worked on design for a mobile app that would use APIs to get content to mobile users.  Worked closely with product management to efficiently create customized features for clients. Mentored other engineers and worked on paired programming projects. 
 **Key Skills:**
-<ul>
-  <li>PHP</li>
-  <li>Javascript</li>
-  <li>APP Development</li>
-  <li>REST</li>
-  <li>APIs</li>
-</ul>
+  * PHP
+  * Javascript
+  * APP Development
+  * REST
+  * APIs
+
 
 **Mobile App Developer, GoGuide (2012):**
-Using Jquery Mobile and Ruby, I designed and submitted apps on the Android and iOS marketplaces.  Coordinated QA of app before submission and implemented necessary changes to create a competitive product. </br>
+Using Jquery Mobile and Ruby, I designed and submitted apps on the Android and iOS marketplaces.  Coordinated QA of app before submission and implemented necessary changes to create a competitive product. 
 **Key Skills:**
-<ul>
-  <li>Jquery Mobile</li>
-  <li>Ruby</li>
-  <li>iOS</li>
-  <li>Android</li>
-</ul>
+  * Jquery Mobile
+  * Ruby
+  * iOS
+  * Android
+
 
 **Intern Programmer, Grassroots Enterprises (2007-2009):**
-Using Groovy on Grails, Java, Selenium, and other tools, I created and debugged software used for online advocacy. I created automated QA tests to make sure everything was working as expected. </br>
+Using Groovy on Grails, Java, Selenium, and other tools, I created and debugged software used for online advocacy. I created automated QA tests to make sure everything was working as expected. 
 **Key Skills:**
-<ul>
-  <li>Groovy on Grails</li>
-  <li>Java</li>
-  <li>Selenium</li>
-  <li>Automated Testing</li>
-</ul>
+  * Groovy on Grails
+  * Java
+  * Selenium
+  * Automated Testing
+
 
 **Intern Programmer, Computer Sciences Corporation (2004-2005):**
-Creation and maintenance of an internal website used by technicians to complete service orders on computers at Jet Propulsion Laboratory. I  trained other team members to maintain the website as well. </br>
+Creation and maintenance of an internal website used by technicians to complete service orders on computers at Jet Propulsion Laboratory. I  trained other team members to maintain the website as well. 
 **Key Skills:**
-<ul>
-  <li>PHP</li>
-  <li>HTML</li>
-  <li>MYSQL</li>
-  <li>Training</li>
-</ul>
+  * PHP
+  * HTML
+  * MYSQL
+  * Training
+
 
 ### Education
 

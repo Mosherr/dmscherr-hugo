@@ -1,53 +1,57 @@
-languageCode = "en-us"
-contentdir = "content"
-publishdir = "public"
-builddrafts = false
-baseurl = "https://dmscherr.com"
-canonifyurls = true
-title = "Code and Things"
-author = "Daniel Scherr"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
-ignoreLogs = ['warning-goldmark-raw-html']
+languageCode = 'en'
+defaultContentLanguage = "en"
+baseurl = 'https://dmscherr.com'
+theme = 'hugo-coder'
+title = 'Code and Things'
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[params]
+    author = "Daniel Scherr"
+    avatarURL = "/images/avatar.webp"
+    dateFormat = "January 2, 2006"
+    since = 2015
+    colorScheme = "dark"
+    description = "This is a blog for me to write down my thoughts about projects I work on."
 
 [taxonomies]
-  tag = "tags"
-  category = "categories"
-  series = "series"
+tag = "tags"
 
-[Params]
-  AuthorName = "Dmscherr"
-  github = "Mosherr"
-  bitbucket = false
-  flickr = false
-  twitter = false
-  email = "me@dmscherr.com"
-  description = "This is a blog for me to write down my thoughts about projects I work on."
-  cv = "/pages/about"
-  muut = false
-  linkedin = "dmscherr"
-  cover = "/images/background-cover.jpg"
-  logo = false
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/Mosherr"
 
-[[menu.main]]
-    name = "About Me"
-    pre = "<i class='fa fa-heart'></i>"
-    weight = -100
-    identifier = "about"
-    url = "/pages/about/"
-[[menu.main]]
-    name = "Resume"
-    pre = "<i class='fa fa-road'></i>"
-    weight = -110
-    url = "/pages/resume/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/dmscherr"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "pages/about/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 3
+url = "pages/resume/"
+
+[[languages.en.menu.main]]
+name = "Tags"
+weight = 4
+url = "tags"
 
 [deployment]
-    confirm = false
-    dryRun = false
-    force = false
-    invalidateCDN = true
-    maxDeletes = 256
-    target = ''
-    workers = 10
-        [[deployment.targets]]
-        name = 'production'
-        url = 's3://dmscherr?region=us-west-1'
+    [[deployment.targets]]
+    name = 'production'
+    url = 's3://dmscherr.com?region=us-west-1'

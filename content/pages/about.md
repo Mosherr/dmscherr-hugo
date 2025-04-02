@@ -1,10 +1,10 @@
-+++
-draft = false
-title = "About Me"
-description = "This is a little about me"
-tags        = [ "Development"]
-topics      = [ "Development"]
-+++
+---
+title : "About Me"
+description : "This is a little about me"
+showTableOfContents: true
+type: "pages"
+tags        : [ "Development"]
+---
 
 ## Professional
 
